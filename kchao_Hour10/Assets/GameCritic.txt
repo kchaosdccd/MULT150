@@ -1,0 +1,15 @@
+Is the game too easy or hard?
+
+What would make it easier or harder?
+easier, more enoyable
+-increase responsiveness of player by increasing max speed
+
+harder
+-enemies push player
+-add hazards to avoid
+
+What would give it a "wow" factor?
+-particle effects
+
+What parts of the game are fun? What parts of the game are tedious?
+
